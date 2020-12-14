@@ -1,0 +1,2 @@
+# TUGASUAS
+klasifikasi data mining
